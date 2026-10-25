@@ -77,14 +77,14 @@ Semantic Chunk Buffer           Deterministic AST Shaker               Zero-Cost
 
 ### From Source
 ```bash
-git clone https://github.com/salvatorelombardosr-sudo/context-recycler.git
+git clone https://github.com/Ventador-1991/context-recycler.git
 cd context-recycler
 pip install -e .
 ```
 
 ### Direct Pip Install from GitHub
 ```bash
-pip install git+https://github.com/salvatorelombardosr-sudo/context-recycler.git
+pip install git+https://github.com/Ventador-1991/context-recycler.git
 ```
 
 ### Prerequisites
@@ -163,4 +163,4 @@ To use `context-recycler` as a native agent skill in **Google Antigravity** or *
 ## 🛡️ License
 
 Released under the [MIT License](./LICENSE).  
-Authored by **[Salvatore Lombardo](https://github.com/salvatorelombardosr-sudo)**.
+Authored by **[Ventador-1991](https://github.com/Ventador-1991)**.
